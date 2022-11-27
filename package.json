@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wassimchakib/Free-Games-Tracker.git"
+    "url": "https://github.com/manq2010/free-games-tracker"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wassimchakib/Free-Games-Tracker/issues"
+    "url": "https://github.com/manq2010/free-games-tracker/issues"
   },
-  "homepage": "https://github.com/wassimchakib/Free-Games-Tracker",
+  "homepage": "https://github.com/manq2010/free-games-tracker",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.7.1",

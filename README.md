@@ -90,7 +90,7 @@ In order to run this project you need:
 ### Setup
 
 Clone this repository by using the command line : 
-- `git clone https://github.com/wassimchakib/Free-Games-Tracker.git`
+- `git clone https://github.com/manq2010/free-games-tracker`
 
 ### Install
 
@@ -136,8 +136,8 @@ You can deploy this project using:
 
 👤 **Mancoba Sihlongonyane**
 
-- GitHub: [@githubhandle](https://github.com/manq2010/)
-- Twitter: [@twitterhandle](https://twitter.com/mancoba_c/)
+- GitHub: [@manq2010](https://github.com/manq2010/)
+- Twitter: [@mancoba_c](https://twitter.com/mancoba_c/)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/mancobasihlongonyane/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -187,7 +187,7 @@ Give a ⭐️ if you like this project!
 
 - **How to use the project**
 
-  - ```git clone https://github.com/wassimchakib/Free-Games-Tracker.git ```
+  - ```git clone https://github.com/manq2010/free-games-tracker ```
 
 - **How to contribute to the project**
 
